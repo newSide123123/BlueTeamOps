@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\bin\Debug\net7.0\Which are in.exe
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\bin\Debug\net7.0\Which are in.deps.json
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\bin\Debug\net7.0\Which are in.runtimeconfig.json
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\bin\Debug\net7.0\Which are in.dll
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\bin\Debug\net7.0\Which are in.pdb
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\obj\Debug\net7.0\Which are in.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\obj\Debug\net7.0\Which are in.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\obj\Debug\net7.0\Which are in.AssemblyInfo.cs
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\obj\Debug\net7.0\Which are in.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\obj\Debug\net7.0\Which are in.dll
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\obj\Debug\net7.0\refint\Which are in.dll
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\obj\Debug\net7.0\Which are in.pdb
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\obj\Debug\net7.0\Which are in.genruntimeconfig.cache
+D:\Visual Studio Projects\CodeWars\Which are in\Which are in\obj\Debug\net7.0\ref\Which are in.dll
